@@ -4,9 +4,11 @@
 
 遊玩：<https://varun1012.github.io/tiece/>
 
+這個 repo 是原始碼。可玩網站放在 [Varun1012.github.io](https://github.com/Varun1012/Varun1012.github.io) 的 `tiece/` 目錄，由該 repo 的 Pages 流程發布。
+
 ```bash
 npm install
 npm run dev
 ```
 
-本地預覽在 `http://localhost:5173/tiece/`。正式網站由 GitHub Pages 從 `main` 自動發布。
+本地預覽在 `http://localhost:5173/tiece/`。
